@@ -1,1 +1,3 @@
-
+Select firstname
+From employee
+Limit 5;
